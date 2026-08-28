@@ -12,3 +12,4 @@
 }
 .birth-date{position:relative;margin:0 0 16px;padding:0;border:0;display:grid;grid-template-columns:1fr 1fr 1.3fr;gap:10px}.birth-date legend{font-size:12px;font-weight:600;margin-bottom:5px}.birth-date label{font-size:10px!important;margin:0!important}.birth-date input{text-align:center;letter-spacing:1px}
 @media (max-width:760px){.birth-date{gap:7px}.birth-date input{font-size:14px}.calculator-section{padding-top:55px!important;padding-bottom:55px!important}}
+.form-message.error{color:#a43f35}

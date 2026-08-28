@@ -1,0 +1,12 @@
+{
+  "name": "nidhi-numerologist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nidhi Numerologist website with login and registration backend",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
